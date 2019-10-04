@@ -1,2 +1,4 @@
 nublado
 soleado
+lluvioso
+tormentoso
